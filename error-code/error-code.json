@@ -1,0 +1,19 @@
+{
+  "en": {
+"G_S003": "Game genre updated successfully",
+"G_E004": "Game genre name and image is required"
+},
+ "ms": {
+"G_S003": "Game genre updated successfully",
+"G_E004": "Game genre name and image is required"
+},
+ "ar": {
+"G_S003": "Game genre updated successfully",
+"G_E004": "Game genre name and image is required"
+ },
+"fr": {
+
+"G_S003": "Game genre updated successfully",
+"G_E004": "Game genre name and image is required"
+  }
+}
