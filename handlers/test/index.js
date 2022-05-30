@@ -2,15 +2,15 @@ const serverless = require("serverless-http");
 const express = require("express");
 const app = express();
 
-app.get("/", (req, res, next) => {
+app.get("/test", (req, res, next) => {
   return res.status(200).json({
     message: "Hello from root!",
   });
 });
 
-app.get("/hello", (req, res, next) => {
+app.get("/test/hello", (req, res, next) => {
   return res.status(200).json({
-    message: "Hello from path!",
+    message: "Hello from test path!",
   });
 });
 

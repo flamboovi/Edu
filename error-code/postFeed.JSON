@@ -1,0 +1,30 @@
+{
+  "en": {
+    "PF_P001": "Get Posts Successfully",
+    "PF_P002": "Create Post Successfully",
+    "CO_C001": "Forbidden",
+    "CO_C002": "Something Went Wrong",
+    "CO_C003": "Invalid Query Syntax"
+  },
+  "ms": {
+    "PF_P001": "Get Posts Successfully",
+    "PF_P002": "Create Post Successfully",
+    "CO_C001": "Forbidden",
+    "CO_C002": "Something Went Wrong",
+    "CO_C003": "Invalid Query Syntax"
+  },
+  "ar": {
+    "PF_P001": "Get Posts Successfully",
+    "PF_P002": "Create Post Successfully",
+    "CO_C001": "Forbidden",
+    "CO_C002": "Something Went Wrong",
+    "CO_C003": "Invalid Query Syntax"
+  },
+  "fr": {
+    "PF_P001": "Get Posts Successfully",
+    "PF_P002": "Create Post Successfully",
+    "CO_C001": "Forbidden",
+    "CO_C002": "Something Went Wrong",
+    "CO_C003": "Invalid Query Syntax"
+  }
+}
